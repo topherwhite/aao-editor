@@ -37,18 +37,18 @@ $var['img']['1024']['sq'] = 1024;
 $var['img']['180']['sq'] = 180;
 
 $read_write_env = "s3";
-$var['creds']['s3'] = array("AKIAI5ND7YMXBZTJD2RQ","D1esSSfOV+EY9H4Y4U2c23/ekvc8jVRT0gJpQy0W");
+$var['creds']['s3'] = array("[AWS-ACCESS-KEY]","[AWS-SECRET-KEY]");
 //$var['path']['tmp'] = "../../data";
 $var['path']['tmp'] = "/mnt/editor-data";
 
 
 $var['creds']['mysql']['srvr'] = "localhost";
 $var['creds']['mysql']['user'] = "editor";
-$var['creds']['mysql']['pswd'] = "ky0yI3hqeIbB";
+$var['creds']['mysql']['pswd'] = "password";
 $var['creds']['mysql']['db'] = "editor";
 
-$var['creds']['cm']['api_key'] = "cff3622c991202e2adfd7df3a82de109";
-$var['creds']['cm']['client_id'] = "3aa363385bb2e2908ccb472987ce774a";
+$var['creds']['cm']['api_key'] = "";
+$var['creds']['cm']['client_id'] = "";
 
 if (!empty($_SERVER["REQUEST_URI"])) { $url_dir = substr($_SERVER["REQUEST_URI"],1); $url_arr = explode("/",$url_dir); }
 
