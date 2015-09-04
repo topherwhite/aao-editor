@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Get a single photo by ID -- e.g. http://aaoeditor/photos?id=abc12 -->
+
+<result>
+  <photo>
+    <!-- image properties -->
+  	<id>ABC12</id>
+
+    <!-- photographer meta -->
+    <photographerid>whitec</photographerid>
+    <originalfilename>dsc01234.raw</originalfilename>
+    <originalformat>RAW</originalformat>
+    <originalfilesize>1024</originalfilesize>
+    <originalwidth>800</originalwidth>
+    <originalheight>600</originalheight>
+    <originalmetaexif>EXIF meta extracted from image</originalmetaexif>
+    <originalmetaipic>IPIC meta</originalmetaipic>
+    <originalmetaxmp>XMP meta</originalmetaxmp>
+    <photographercaption>A caption set by the photographer</photographercaption>
+
+    <!-- assignment meta -->
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+	
+	<!-- image customisation -->
+	<defaultcrop>
+		<x>123</x>
+		<y>567</y>
+		<width>200</width>
+		<height>300</height>
+	</defaultcrop>
+  </photo>
+</result>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Get multiple photos by tag -- e.g. http://aaoeditor/photos?tag=Bucket -->
+
+<result>
+  <photo>
+  	<id>ah082</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+	<thumburl>http://aaoeditor/photo/thumb/ah082</thumburl>
+  </photo>
+  <photo>
+  	<id>ah084</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah086</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah088</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah089</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah092</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah094</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah101</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah107</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah112</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+  <photo>
+  	<id>ah116</id>
+    <photographerid>ant</photographerid>
+    <photographercaption>A caption set by the photographer</photographercaption>
+    <assignmentid>1</assignmentid>
+    <rating>5</rating>
+    <tags>
+	  <tag>Bucket</tag>
+	  <tag>AnotherBucket</tag>
+	</tags>
+	<notes>A large text field of notes</notes>
+	<caption>The latest saved caption</caption>
+  </photo>
+</result>
